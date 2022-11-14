@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Python Developer & Sr. Content Developer**
 
-- 🌱 I’m currently learning **MBA in (Data Science & Business Analytics, Django Web Framework, MySQL**
+- 🌱 I’m currently learning **MBA in (Data Science & Business Analytics), Django Web Framework, MySQL**
 
 - 🤝 I’m looking for help with **Django Projects**
 
