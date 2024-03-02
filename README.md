@@ -1,19 +1,19 @@
 ![MasterHead](https://indoanalytica.com/static/images/banner-2.gif)
 
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
-<h3 align="center">A passionate Python developer, Problem Solver & Logical Thinker from India</h3>
+<h3 align="center">A passionate Machine Learning & Deep Learning developer, Problem Solver & Logical Thinker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash-bee&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash-bee" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1hpX6zI4vSh480b0iSLQ3-A9i4Ix3gnFD">
 
-- 🔭 I’m currently working as **Python Developer & Sr. Content Developer**
+- 🔭 I’m currently working on **Machine Learning & Deep Learning**
 
-- 🌱 I’m currently learning **MBA in (Data Science & Business Analytics), Django Web Framework, MySQL**
+- 🌱 I’m currently learning **MBA in (Data Science & Business Analytics), Machine Learning, Deep Learning, MySQL**
 
-- 🤝 I’m looking for help with **Django Projects**
+- 🤝 I’m looking for help with **Machine Learning, Deep Learning, MySQL**
 
-- 💬 Ask me about **Python, NumPy, Pandas, Flask, Django, PostgreSQL, MySQL**
+- 💬 Ask me about **Python, NumPy, Pandas, Matplotlib, Tensorflow, Computer Vision, NLP, Classification, Regression, MySQL**
 
 - 📫 How to reach me **abhilashjanarrdhan@gmail.com**
 
