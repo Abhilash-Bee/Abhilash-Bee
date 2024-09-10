@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning & Deep Learning**
 
-- 🌱 I’m currently learning **MBA in (Data Science & Business Analytics), Machine Learning, Deep Learning, MySQL**
+- 🌱 I’m graduated with **MBA in (Data Science & Business Analytics), Machine Learning, Deep Learning, MySQL**
 
 - 🤝 I’m looking for help with **Machine Learning, Deep Learning, MySQL**
 
